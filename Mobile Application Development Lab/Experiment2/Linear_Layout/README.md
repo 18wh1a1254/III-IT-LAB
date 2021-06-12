@@ -7,3 +7,6 @@ the Submit Button. Use
 (a) Linear Layout
 
 ### Output
+![output](output1.jpeg)
+![output](output2.jpeg)
+![output](output3.jpeg)
