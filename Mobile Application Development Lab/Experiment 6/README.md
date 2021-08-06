@@ -1,4 +1,4 @@
 
-![output](image1.jpg)
-![output](image2.jpg)
-![output](image3.jpg)
+![output](pic1.jpeg)
+![output](pic2.jpeg)
+![output](pic3.jpeg)
